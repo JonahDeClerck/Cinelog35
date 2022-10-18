@@ -1,7 +1,7 @@
 # Cinelog35
 
 :wrench:
-<pre>
+
 - Iflight beast f7 55a 4-6s
 - Iflight xing 2205.5 3600kv
 
@@ -11,4 +11,3 @@
 - TBS triumph Pro U.fl
 
 - TBS Tracer diversity Rx
-</pre>
