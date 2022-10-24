@@ -10,7 +10,7 @@
 - TBS Unify PRO 5G8 V3
 - TBS triumph Pro U.fl
 
----:gear:---
+:gear: ***
 
 :video_game:
 - TBS mambo
@@ -19,4 +19,3 @@
 :eyeglasses:
 - Fatshark dominator v1
 - ImmersionRC true-d diversity
-- 
