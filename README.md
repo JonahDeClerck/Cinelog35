@@ -10,8 +10,7 @@
 >- TBS Unify PRO 5G8 V3
 >- TBS triumph Pro U.fl
 
->:gear: 
->
+
 >:video_game:
 >- TBS mambo
 >- TBS Tracer diversity Rx
