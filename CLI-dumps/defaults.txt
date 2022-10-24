@@ -1,0 +1,52 @@
+# 
+
+# diff all
+
+# version
+# Betaflight / STM32F745 (S745) 4.3.1 Jul 13 2022 / 03:35:21 (8d4f005) MSP API: 1.44
+# config: manufacturer_id: IFRC, board_name: IFLIGHT_F745_AIO_V2, version: edcd244b, date: 2022-06-29T02:24:46Z
+
+# start the command batch
+batch start
+
+# reset configuration to default settings
+defaults nosave
+
+board_name IFLIGHT_F745_AIO_V2
+manufacturer_id IFRC
+mcu_id 0028002d5448501820303834
+signature 
+
+# feature
+feature -RX_PARALLEL_PWM
+
+# master
+set blackbox_device = NONE
+
+profile 0
+
+profile 1
+
+profile 2
+
+# restore original profile selection
+profile 0
+
+rateprofile 0
+
+rateprofile 1
+
+rateprofile 2
+
+rateprofile 3
+
+rateprofile 4
+
+rateprofile 5
+
+# restore original rateprofile selection
+rateprofile 0
+
+# save configuration
+save
+# 
