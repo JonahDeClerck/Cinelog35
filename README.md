@@ -1,6 +1,6 @@
 # Cinelog35
 
-<img src= "https://github.com/JonahDeClerck/Cinelog35/blob/main/img/cinelog-35.jpg" width="500" height="500">
+<img src= "https://github.com/JonahDeClerck/Cinelog35/blob/main/img/cinelog-35.jpg" width="562.5" height="426.75">
 
 >:wrench:
 >
