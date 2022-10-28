@@ -1,5 +1,7 @@
 # Cinelog35
 
+<img src= "https://github.com/JonahDeClerck/Cinelog35/blob/main/img/cinelog-35.jpg" width="100" height="100">
+
 >:wrench:
 >
 >- Iflight beast f7 55a 4-6s
